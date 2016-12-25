@@ -1,1 +1,2 @@
-# kron-echobot
+# Echobot
+Basic django app to echo text 
